@@ -1,1 +1,3 @@
-# Yoooo
+### Requires pip
+- bs4
+- requests
